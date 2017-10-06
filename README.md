@@ -83,3 +83,10 @@ Release 07
 ==========
 
  1. Script to build a production version
+
+ Release 08
+ ==========
+
+  1. update tsconfig.json to support:
+        1. way of importing modules.
+        2. adding lib entries to recognize Promise etc.

@@ -1,9 +1,13 @@
 {
     "compilerOptions": {
         "target": "es5",
+        "moduleResolution": "node",
         "module": "es2015",
-        "typeRoots": [
-            "node_modules/@types"
+        "sourceMap": true,
+        "lib": [
+            "es2015",
+            "es2015.promise",
+            "dom"
         ]
     }
 }
