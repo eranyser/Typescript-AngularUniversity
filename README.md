@@ -1,6 +1,7 @@
 On-going Seed
 ===================
 On-going seed project.
+The Video for this seed was taken from: [Learn Webpack 2 from scratch - Udemy Course](https://www.udemy.com/learn-webpack-2-from-scratch/learn/v4/content) 
 
 # Release 01
 This first seed includes:
@@ -90,3 +91,8 @@ Release 07
   1. update tsconfig.json to support:
         1. way of importing modules.
         2. adding lib entries to recognize Promise etc.
+
+Release 09
+==========
+
+Update the source video of this tutorial
